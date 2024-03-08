@@ -1,0 +1,13 @@
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\C#DerstenBağımsızlar\SozlukDevVer\bin\Debug\SozlukDevVer.exe.config
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\C#DerstenBağımsızlar\SozlukDevVer\bin\Debug\SozlukDevVer.exe
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\C#DerstenBağımsızlar\SozlukDevVer\bin\Debug\SozlukDevVer.pdb
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\C#DerstenBağımsızlar\SozlukDevVer\obj\Debug\SozlukDevVer.csproj.AssemblyReference.cache
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\C#DerstenBağımsızlar\SozlukDevVer\obj\Debug\SozlukDevVer.Properties.Resources.resources
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\C#DerstenBağımsızlar\SozlukDevVer\obj\Debug\SozlukDevVer.csproj.GenerateResource.cache
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\C#DerstenBağımsızlar\SozlukDevVer\obj\Debug\SozlukDevVer.csproj.CoreCompileInputs.cache
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\C#DerstenBağımsızlar\SozlukDevVer\obj\Debug\SozlukDevVer.exe
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\C#DerstenBağımsızlar\SozlukDevVer\obj\Debug\SozlukDevVer.pdb
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\C#DerstenBağımsızlar\SozlukDevVer\obj\Debug\SozlukDevVer.SozlukTestEngine.resources
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\C#DerstenBağımsızlar\SozlukDevVer\obj\Debug\SozlukDevVer.Ekle.resources
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\C#DerstenBağımsızlar\SozlukDevVer\obj\Debug\SozlukDevVer.SoruBankasi.resources
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\C#DerstenBağımsızlar\SozlukDevVer\obj\Debug\SozlukDevVer.EkleV2.resources

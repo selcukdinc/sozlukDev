@@ -1,6 +1,6 @@
 Özellikler
   -  Text dosyalarında kelimeleri saklar
-  -  Veri tabanına kelime eklenebilir veya var olan kelimeler değiştirilebilir
+  -  Veri tabanına ((text dosyaları)nın içine ayrı ayrı kaydeder) kelime eklenebilir veya var olan kelimeler değiştirilebilir
   -  Arama kutusu bulunur, ingilizce yazılan kelimeler türkçe karşılıklarıyla gösterilir
   -  V2 formu sadece ihtiyaç oluşturan nesneleri içerir
   -  Soru bankası özelliği sayesinde textte sakladığı kelimelerden rastgele seçkiler ile kullanıcıyı sınayabilir (Geliştiirilme aşamasında olup nihai versiyona gelmemiştir,

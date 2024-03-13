@@ -48,7 +48,7 @@
             this.listB_srch.ItemHeight = 16;
             this.listB_srch.Location = new System.Drawing.Point(5, 193);
             this.listB_srch.Name = "listB_srch";
-            this.listB_srch.Size = new System.Drawing.Size(373, 276);
+            this.listB_srch.Size = new System.Drawing.Size(469, 276);
             this.listB_srch.TabIndex = 31;
             // 
             // label6
@@ -82,6 +82,7 @@
             this.textB_No.Size = new System.Drawing.Size(78, 35);
             this.textB_No.TabIndex = 27;
             this.textB_No.Text = "0";
+            this.textB_No.KeyUp += new System.Windows.Forms.KeyEventHandler(this.textB_No_KeyUp);
             // 
             // btn_Ekle
             // 
@@ -100,7 +101,7 @@
             this.textB_Eng.ForeColor = System.Drawing.Color.Silver;
             this.textB_Eng.Location = new System.Drawing.Point(5, 22);
             this.textB_Eng.Name = "textB_Eng";
-            this.textB_Eng.Size = new System.Drawing.Size(373, 35);
+            this.textB_Eng.Size = new System.Drawing.Size(469, 35);
             this.textB_Eng.TabIndex = 25;
             this.textB_Eng.Text = "İngilizce Karşılığını Yazın";
             this.textB_Eng.Click += new System.EventHandler(this.textB_Eng_Click);
@@ -113,7 +114,7 @@
             this.textB_Tr.ForeColor = System.Drawing.Color.Silver;
             this.textB_Tr.Location = new System.Drawing.Point(5, 83);
             this.textB_Tr.Name = "textB_Tr";
-            this.textB_Tr.Size = new System.Drawing.Size(373, 35);
+            this.textB_Tr.Size = new System.Drawing.Size(469, 35);
             this.textB_Tr.TabIndex = 24;
             this.textB_Tr.Text = "Türkçe Karşılığını Yazın";
             this.textB_Tr.Click += new System.EventHandler(this.textB_Tr_Click);
@@ -166,7 +167,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(383, 478);
+            this.ClientSize = new System.Drawing.Size(478, 478);
             this.Controls.Add(this.label7);
             this.Controls.Add(this.listB_Eng);
             this.Controls.Add(this.listB_Tr);

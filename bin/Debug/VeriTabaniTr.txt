@@ -8,7 +8,7 @@ Bireyler
 Kullanma
 Keyfi
 Yardımsız
-Olup Olmadığı
+Olup olmadığı
 Yeterli
 Uygulandı
 Önemli
@@ -34,7 +34,7 @@ Niteliksel
 Birleştirme
 Açıklamak
 Yedeklilik
-Dikkat Çekicilik
+Dikkat çekicilik
 Uyarma
 Özellik
 Büyütülmüş
@@ -101,3 +101,28 @@ Aptalca
 Bilişsel
 Yetersizlik
 Yorumlamak
+Refakatçi
+Abartılı
+Tehlike
+Kesin olmayan
+Özyinelemeli
+Tahmin
+Sonuç
+Bulanık
+Kazanılmış
+Yineleme
+Cihazlar
+Çıkarım
+Öncül
+Tüketmek
+Yaklaşım
+İlgili
+Gereksiz
+Önyargılı
+Bu nedenle
+Bunun yerine
+Rastsal
+Kaba
+Korunuyor
+Geçerlilik
+Sarkıt
